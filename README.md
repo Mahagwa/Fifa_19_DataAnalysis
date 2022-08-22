@@ -21,5 +21,6 @@
 
 ## Key Insights for Presentation
 
-> A high number of players' ages are between the range of 19 and 28 years. The highest number of players being of age 21. We also see the youngest player being of age 16 and the oldest being age 41. This shows that the prime years for footballer is between the ages of 20 and 30.
+> A high number of players' ages are between the range of 19 and 28 years. The highest number of players being of age 21. We also see the youngest player being of age 16 and the oldest being age 41. This shows that the prime years for footballer is between the ages of 20 and 30. 
+> Most players retire between the ages of 30 and 40. There are not many players in their 40's still active.
 > The highest number of players come from England. This shows how much the sport is favorite in the country according to our dataset. In the top ten countries with the highest players, six are in Europe with Argentina, Brazil, Colombia and Japan being those outside Europe.
